@@ -1,0 +1,27 @@
+{
+  "name": "functions_storedprocs",
+  "version": "1.0.0",
+  "description": "\"# Functions_StoredProcedures\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pg": "^8.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebbieAntiveros/Functions_StoredProcedures.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/DebbieAntiveros/Functions_StoredProcedures/issues"
+  },
+  "homepage": "https://github.com/DebbieAntiveros/Functions_StoredProcedures#readme"
+}
